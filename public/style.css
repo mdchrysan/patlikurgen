@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Poppins&family=Rosario:wght@300;400;700&display=swap");
+
+:root {
+  --main-blue: #21304f;
+  --main-green: #a5f812;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rosario", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(var(--main-blue), black);
+}
+
+.logo {
+  color: var(--main-green);
+  font-size: 2em;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 5px;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: 4px 8px 6px rgba(0, 0, 0, 0.3);
+}
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar ul li {
+  list-style: none;
+  margin-left: 20px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  padding: 5px 15px;
+  color: white;
+  opacity: 0.75;
+  border-radius: 20px;
+}
+
+.navbar ul li a:hover {
+  color: var(--main-green);
+  opacity: 1;
+}
