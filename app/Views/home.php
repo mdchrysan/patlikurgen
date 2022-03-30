@@ -25,12 +25,14 @@
 <section class="home socials-section" id="socials">
     <h2>Get to Know Us Better with</h2>
     <div class="socials-link">
-        <!-- <a href="https://www.instagram.com/patlikurgen/" class="btn socials-details" target="_blank">
+        <a href="https://www.instagram.com/patlikurgen/" class="btn socials-details" target="_blank">
             <img src="src/instagram.png" alt="instagram-link"></a>
-        <a href="https://open.spotify.com/user/qpnrwvinmsitd38nz2kt3ij0v" class="btn socials-details" target="_blank">
+        <!-- <a href="https://open.spotify.com/user/qpnrwvinmsitd38nz2kt3ij0v" class="btn socials-details" target="_blank">
             <img src="src/spotify.png" alt="spotify-link"></a>
         <a href="https://www.youtube.com/channel/UCjI3BssTlpPSHqnE_8B_mgQ" class="btn socials-details" target="_blank">
-            <img src="src/youtube.png" alt="youtube-link"></a> -->
+            <img src="src/youtube.png" alt="youtube-link"></a>
+        <a href="mailto:yearbook.patlikur@gmail.com" class="btn socials-details" target="_blank">
+            <img src="src/gmail.png" alt="gmail-link"></a> -->
     </div>
 </section>
 <?= $this->endSection(); ?>
