@@ -1,7 +1,7 @@
 <?= $this->extend('layout/head'); ?>
 
 <?= $this->section('content'); ?>
-<section>
+<section class="welcome-section">
     <img src="src/stars.png" alt="stars-img" id="stars">
     <img src="src/moon.png" alt="moon-img" id="moon">
     <h2 id="main-txt">Patlikurgen</h2>
