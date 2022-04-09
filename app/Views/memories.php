@@ -10,23 +10,35 @@
         </div>
     </section>
     <section class="photos" id="photos">
-        <h2 class="m-title">Photos</h2>
+        <h2>Photos</h2>
     </section>
     <section class="cinema-1" id="videos">
-        <h2 class="m-title">Videos</h2>
-        <div>
-            <iframe src="https://www.youtube.com/embed/fMWG6A9k_gQ" title="Film Angkatan" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        <div>
-            <iframe src="https://www.youtube.com/embed/2uR70dThaEw" title="Goes To Aftermovie" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Videos</h2>
+        <div class="videos">
+            <div class="video">
+                <iframe src="https://www.youtube.com/embed/fMWG6A9k_gQ?controls=0&rel=0&modestbranding=1" title="Film Angkatan" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="video">
+                <iframe src="https://www.youtube.com/embed/2uR70dThaEw?controls=0&rel=0&modestbranding=1" title="Goes To Aftermovie" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
         </div>
     </section>
     <section class="cinema-2" id="short-movies">
-        <h2 class="m-title">Short Movies</h2>
-        <iframe src="https://www.youtube.com/embed/cKd4T8vYKCM" title="Nekat" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/8eYMAhG7dZo" title="24:00" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/aPO8g4OC-pU" title="Takut" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/zrcRC3deUSE" title="Bangunkan Aku Saat Engkau Kembali" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <h2>Short Movies</h2>
+        <div class="videos">
+            <div class="video">
+                <iframe src="https://www.youtube.com/embed/cKd4T8vYKCM?controls=0&rel=0&modestbranding=1" title="Nekat" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="video">
+                <iframe src="https://www.youtube.com/embed/8eYMAhG7dZo?controls=0&rel=0&modestbranding=1" title="24:00" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="video">
+                <iframe src="https://www.youtube.com/embed/aPO8g4OC-pU?controls=0&rel=0&modestbranding=1" title="Takut" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="video">
+                <iframe src="https://www.youtube.com/embed/zrcRC3deUSE?controls=0&rel=0&modestbranding=1" title="Bangunkan Aku Saat Engkau Kembali" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
     </section>
 </div>
 <?= $this->endSection(); ?>
