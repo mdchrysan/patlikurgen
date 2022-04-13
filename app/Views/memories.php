@@ -11,33 +11,153 @@
     </section>
     <section class="photos" id="photos">
         <h2>Photos</h2>
-        <div class="row">
-            <div class="col-lg-4 col-sm-6">
+        <div class="row justify-content-center">
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
                 <div class="thumbnail">
                     <div class="img-container">
-                        <img src="https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" alt="memories">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
                         <div class="overlay">
-                            <p class="caption">Title here.</p>
+                            <p class="caption">PPDB</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
                 <div class="thumbnail">
                     <div class="img-container">
-                        <img src="https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" alt="memories">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
                         <div class="overlay">
-                            <p class="caption">Title here.</p>
+                            <p class="caption">OASE</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-sm-6">
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
                 <div class="thumbnail">
                     <div class="img-container">
-                        <img src="https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" alt="memories">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
                         <div class="overlay">
-                            <p class="caption">Title here.</p>
+                            <p class="caption">17an</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Napak Tilas</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">JTA</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Kunjungan Kelembagaan</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Natalan</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Valentine</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">HVL</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">RKKS</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">FKMPP</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Baksos</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Farewell</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Goes To</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 px-0">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="src/logo24.jpg" alt="memories" class="img">
+                        <div class="overlay">
+                            <p class="caption">Missio</p>
                         </div>
                     </div>
                 </div>
