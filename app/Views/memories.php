@@ -11,6 +11,38 @@
     </section>
     <section class="photos" id="photos">
         <h2>Photos</h2>
+        <div class="row">
+            <div class="col-lg-4 col-sm-6">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" alt="memories">
+                        <div class="overlay">
+                            <p class="caption">Title here.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" alt="memories">
+                        <div class="overlay">
+                            <p class="caption">Title here.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="thumbnail">
+                    <div class="img-container">
+                        <img src="https://images.unsplash.com/photo-1510070112810-d4e9a46d9e91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80" alt="memories">
+                        <div class="overlay">
+                            <p class="caption">Title here.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <section class="cinema-1" id="videos">
         <h2>Videos</h2>
