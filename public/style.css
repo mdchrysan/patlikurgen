@@ -364,45 +364,40 @@ a {
 .caption {
   position: absolute;
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-/* .cinema {
+.embed-responsive {
   position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+  /* margin: 15px; */
+}
+
+.embed-responsive-item {
+  /* width: 560px; */
+  /* height: 315px; */
   width: 100%;
-  padding: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-} */
-
-.videos {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 20px;
+  height: 100%;
+  /* display: block; */
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  margin: 15px;
 }
 
-.video {
-  position: relative;
+/* Modifier class for 16:9 aspect ratio */
+.embed-responsive-16by9 {
+  padding-bottom: 56.25%;
 }
 
-iframe {
-  width: 560px;
-  height: 315px;
-  border: 0;
-}
-
-/* @media only screen and (max-width:1200px) {
-  .video{
-    
-  }
-} */
-
-@media only screen and (max-width:880px) {
-  .video {
-    grid-column-start: span 2;
-  }
+/* Modifier class for 4:3 aspect ratio */
+.embed-responsive-4by3 {
+  padding-bottom: 75%;
 }
