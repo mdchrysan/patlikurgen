@@ -21,7 +21,326 @@
 </section>
 <section class="home" id="member">
     <h2>Spot Your Name</h2>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium a tempora tenetur nostrum. Iusto commodi earum ducimus quas at reprehenderit quam qui totam quasi. Libero saepe natus dolore! Mollitia, dolore?</p>
+    <div class="member-list">
+        <h3 class="member-text">
+            <div class="marquee-wrapper" style="animation: marqueeAnimation-m1 90s linear 1s infinite normal none running;">
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+            </div>
+        </h3>
+    </div>
+    <div class="member-list">
+        <h3 class="member-text">
+            <div class="marquee-wrapper" style="animation: marqueeAnimation-m2 90s linear 1s infinite normal none running;">
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+            </div>
+        </h3>
+    </div>
+    <div class="member-list">
+        <h3 class="member-text">
+            <div class="marquee-wrapper" style="animation: marqueeAnimation-m3 90s linear 1s infinite normal none running;">
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+            </div>
+        </h3>
+    </div>
+    <div class="member-list">
+        <h3 class="member-text">
+            <div class="marquee-wrapper" style="animation: marqueeAnimation-m4 90s linear 1s infinite normal none running;">
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+            </div>
+        </h3>
+    </div>
+    <div class="member-list">
+        <h3 class="member-text">
+            <div class="marquee-wrapper" style="animation: marqueeAnimation-m5 90s linear 1s infinite normal none running;">
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+                <div class="marquee">
+                    &nbsp;Lorem.
+                    ipsum.
+                    dolor.
+                    sit.
+                    amet.
+                    consectetur.
+                    adipisicing.
+                    elit.
+                    Error.
+                    in quisquam.
+                    quidem.
+                    accusamus.
+                    nostrum.
+                    voluptates.
+                    iure.
+                    officiis.
+                    quaerat.
+                    laudantium.
+                    harum.
+                    a eum.
+                    deleniti.
+                    modi.
+                    molestias.
+                    hic maiores.
+                    Qui.
+                    debitis.
+                    explicabo.
+                </div>
+            </div>
+        </h3>
+    </div>
 </section>
 <section class="home" id="statistic">
     <h2>180 Anggota 180 Anggota 180 Anggota</h2>
@@ -29,16 +348,23 @@
 </section>
 <section class="home socials-section" id="socials">
     <h2>Get to Know Us Better with</h2>
-    <!-- <div class="socials-link"> -->
-    <div class="row">
-        <a href="https://www.instagram.com/patlikurgen/" class="btn col-lg-3" target="_blank">
-            <img src="src/instagram.png" alt="instagram-link"></a>
-        <a href="https://open.spotify.com/user/qpnrwvinmsitd38nz2kt3ij0v" class="btn col-lg-3" target="_blank">
-            <img src="src/spotify.png" alt="spotify-link"></a>
-        <a href="https://www.youtube.com/channel/UCjI3BssTlpPSHqnE_8B_mgQ" class="btn col-lg-3" target="_blank">
-            <img src="src/youtube.png" alt="youtube-link"></a>
-        <a href="mailto:yearbook.patlikur@gmail.com" class="btn col-lg-3" target="_blank">
-            <img src="src/gmail.png" alt="gmail-link"></a>
+    <div class="row socials-link">
+        <div class="col-lg-3">
+            <a href="https://www.instagram.com/patlikurgen/" class="btn socials-details" target="_blank">
+                <img src="src/instagram.png" alt="instagram-link"></a>
+        </div>
+        <div class="col-lg-3">
+            <a href="https://open.spotify.com/user/qpnrwvinmsitd38nz2kt3ij0v" class="btn socials-details" target="_blank">
+                <img src="src/spotify.png" alt="spotify-link"></a>
+        </div>
+        <div class="col-lg-3">
+            <a href="https://www.youtube.com/channel/UCjI3BssTlpPSHqnE_8B_mgQ" class="btn socials-details" target="_blank">
+                <img src="src/youtube.png" alt="youtube-link"></a>
+        </div>
+        <div class="col-lg-3">
+            <a href="mailto:yearbook.patlikur@gmail.com" class="btn socials-details" target="_blank">
+                <img src="src/gmail.png" alt="gmail-link"></a>
+        </div>
     </div>
 </section>
 <?= $this->endSection(); ?>
