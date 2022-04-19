@@ -25,62 +25,62 @@
         <h3 class="member-text">
             <div class="marquee-wrapper" style="animation: marqueeAnimation-m1 90s linear 1s infinite normal none running;">
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Wahyu.
+                    Gerry.
+                    Titus.
+                    Oka.
+                    Kenya.
+                    Haraka.
+                    Saskia.
+                    Martinus.
+                    Bill.
+                    Odil.
+                    Egi.
+                    Vandam.
+                    Chrysan.
+                    Leony.
+                    Gaby.
+                    Bella.
+                    Yordan.
+                    Alis.
+                    Rere.
+                    Astyo.
+                    Vinto.
+                    Karin.
+                    Bitek.
+                    Devon.
+                    Ariobimo.
+                    Filia.
+                    Inge.
                 </div>
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Wahyu.
+                    Gerry.
+                    Titus.
+                    Oka.
+                    Kenya.
+                    Haraka.
+                    Saskia.
+                    Martinus.
+                    Bill.
+                    Odil.
+                    Egi.
+                    Vandam.
+                    Chrysan.
+                    Leony.
+                    Gaby.
+                    Bella.
+                    Yordan.
+                    Alis.
+                    Rere.
+                    Astyo.
+                    Vinto.
+                    Karin.
+                    Bitek.
+                    Devon.
+                    Ariobimo.
+                    Filia.
+                    Inge.
                 </div>
             </div>
         </h3>
@@ -89,62 +89,62 @@
         <h3 class="member-text">
             <div class="marquee-wrapper" style="animation: marqueeAnimation-m2 90s linear 1s infinite normal none running;">
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Poppy.
+                    Mamet.
+                    Risti.
+                    Hera.
+                    Owen.
+                    Dinda.
+                    Tata.
+                    Rosa.
+                    Barbara.
+                    Pongo.
+                    Detta.
+                    Ria.
+                    Richo.
+                    Ino.
+                    Handoko.
+                    Krisna.
+                    Tabell.
+                    Yaya.
+                    Venska.
+                    Tiwi.
+                    Jalu.
+                    Alma.
+                    Elang.
+                    Dicky.
+                    Vale.
+                    Judon.
+                    Ezra.
                 </div>
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Poppy.
+                    Mamet.
+                    Risti.
+                    Hera.
+                    Owen.
+                    Dinda.
+                    Tata.
+                    Rosa.
+                    Barbara.
+                    Pongo.
+                    Detta.
+                    Ria.
+                    Richo.
+                    Ino.
+                    Handoko.
+                    Krisna.
+                    Tabell.
+                    Yaya.
+                    Venska.
+                    Tiwi.
+                    Jalu.
+                    Alma.
+                    Elang.
+                    Dicky.
+                    Vale.
+                    Judon.
+                    Ezra.
                 </div>
             </div>
         </h3>
@@ -153,62 +153,62 @@
         <h3 class="member-text">
             <div class="marquee-wrapper" style="animation: marqueeAnimation-m3 90s linear 1s infinite normal none running;">
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Karjo.
+                    Denny.
+                    Maria.
+                    Inggit.
+                    Eko.
+                    Celyn.
+                    Jopras.
+                    Jopan.
+                    Meta.
+                    Katy.
+                    Kecap.
+                    Gusto.
+                    Svdeo.
+                    Lia.
+                    Deksi.
+                    Intan.
+                    Adel.
+                    Aldo.
+                    Niko.
+                    Indah.
+                    Lintang.
+                    Ocha.
+                    Demun.
+                    Iyar.
+                    Samuel.
+                    Sherin.
+                    Yobel.
                 </div>
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Karjo.
+                    Denny.
+                    Maria.
+                    Inggit.
+                    Eko.
+                    Celyn.
+                    Jopras.
+                    Jopan.
+                    Meta.
+                    Katy.
+                    Kecap.
+                    Gusto.
+                    Svdeo.
+                    Lia.
+                    Deksi.
+                    Intan.
+                    Adel.
+                    Aldo.
+                    Niko.
+                    Indah.
+                    Lintang.
+                    Ocha.
+                    Demun.
+                    Iyar.
+                    Samuel.
+                    Sherin.
+                    Yobel.
                 </div>
             </div>
         </h3>
@@ -217,62 +217,62 @@
         <h3 class="member-text">
             <div class="marquee-wrapper" style="animation: marqueeAnimation-m4 90s linear 1s infinite normal none running;">
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Mellisa.
+                    Gefa.
+                    Rio Jr.
+                    Theo.
+                    Mario Albert.
+                    Chandra.
+                    Panji.
+                    Arin.
+                    Arvel.
+                    Anya.
+                    Anna.
+                    Nita.
+                    Tio.
+                    Laras.
+                    Bagas.
+                    Dhimas.
+                    Angel.
+                    Bryan.
+                    Andre Lee.
+                    Ninna.
+                    Wilgan.
+                    Vania.
+                    Alfa.
+                    Raven.
+                    Audrey.
+                    Pipit.
+                    Retno.
                 </div>
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Mellisa.
+                    Gefa.
+                    Rio Jr.
+                    Theo.
+                    Mario Albert.
+                    Chandra.
+                    Panji.
+                    Arin.
+                    Arvel.
+                    Anya.
+                    Anna.
+                    Nita.
+                    Tio.
+                    Laras.
+                    Bagas.
+                    Dhimas.
+                    Angel.
+                    Bryan.
+                    Andre Lee.
+                    Ninna.
+                    Wilgan.
+                    Vania.
+                    Alfa.
+                    Raven.
+                    Audrey.
+                    Pipit.
+                    Retno.
                 </div>
             </div>
         </h3>
@@ -281,66 +281,120 @@
         <h3 class="member-text">
             <div class="marquee-wrapper" style="animation: marqueeAnimation-m5 90s linear 1s infinite normal none running;">
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Tius.
+                    Demal.
+                    Raka.
+                    Sita.
+                    YD.
+                    Yehez.
+                    Yoshi.
+                    Pacil.
+                    Fuji.
+                    Irene.
+                    Rena.
+                    Felix Deo.
+                    Keri.
+                    Christo.
+                    Tabel.
+                    Felis.
+                    Gemma.
+                    Etha.
+                    David.
+                    Yosephine.
+                    Yovita.
+                    Faping.
+                    Bintang.
+                    Desta.
+                    Yulius.
+                    Joao.
+                    Ifan.
                 </div>
                 <div class="marquee">
-                    &nbsp;Lorem.
-                    ipsum.
-                    dolor.
-                    sit.
-                    amet.
-                    consectetur.
-                    adipisicing.
-                    elit.
-                    Error.
-                    in quisquam.
-                    quidem.
-                    accusamus.
-                    nostrum.
-                    voluptates.
-                    iure.
-                    officiis.
-                    quaerat.
-                    laudantium.
-                    harum.
-                    a eum.
-                    deleniti.
-                    modi.
-                    molestias.
-                    hic maiores.
-                    Qui.
-                    debitis.
-                    explicabo.
+                    &nbsp;Tius.
+                    Demal.
+                    Raka.
+                    Sita.
+                    YD.
+                    Yehez.
+                    Yoshi.
+                    Pacil.
+                    Fuji.
+                    Irene.
+                    Rena.
+                    Felix Deo.
+                    Keri.
+                    Christo.
+                    Tabel.
+                    Felis.
+                    Gemma.
+                    Etha.
+                    David.
+                    Yosephine.
+                    Yovita.
+                    Faping.
+                    Bintang.
+                    Desta.
+                    Yulius.
+                    Joao.
+                    Ifan.
                 </div>
             </div>
         </h3>
     </div>
+    <div class="member-list">
+        <h3 class="member-text">
+            <div class="marquee-wrapper" style="animation: marqueeAnimation-m6 90s linear 1s infinite normal none running;">
+                <div class="marquee">
+                    &nbsp;Gandhes.
+                    Anin.
+                    Anggit.
+                    Olga.
+                    Priska.
+                    Tsuyoshi.
+                    Rigo.
+                    Dimpras.
+                    Jason.
+                    Aless.
+                    Anggi.
+                    Wylie.
+                    Aurel.
+                    Michelle.
+                </div>
+                <div class="marquee">
+                    &nbsp;Gandhes.
+                    Anin.
+                    Anggit.
+                    Olga.
+                    Priska.
+                    Tsuyoshi.
+                    Rigo.
+                    Dimpras.
+                    Jason.
+                    Aless.
+                    Anggi.
+                    Wylie.
+                    Aurel.
+                    Michelle.
+                </div>
+            </div>
+        </h3>
+    </div>
+    <marquee style="color: white;" width="100%" direction="right" height="100px" behavior="scroll" scrollamount="3">
+        Gandhes.
+        Anin.
+        Anggit.
+        Olga.
+        Priska.
+        Tsuyoshi.
+        Rigo.
+        Dimpras.
+        Jason.
+        Aless.
+        Anggi.
+        Wylie.
+        Aurel.
+        Michelle.
+    </marquee>
 </section>
 <section class="home" id="statistic">
     <h2>180 Anggota 180 Anggota 180 Anggota</h2>
