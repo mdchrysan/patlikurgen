@@ -379,7 +379,7 @@
             </div>
         </h3>
     </div>
-    <marquee style="color: white;" width="100%" direction="right" height="100px" behavior="scroll" scrollamount="3">
+    <div class="try">
         Gandhes.
         Anin.
         Anggit.
@@ -394,7 +394,8 @@
         Wylie.
         Aurel.
         Michelle.
-    </marquee>
+        Lanjut..
+    </div>
 </section>
 <section class="home" id="statistic">
     <h2>180 Anggota 180 Anggota 180 Anggota</h2>

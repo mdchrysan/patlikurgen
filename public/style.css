@@ -209,6 +209,13 @@ a {
   font-size: 7.5vh;
 }
 
+.try {
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background: #ccc;
+}
+
 .member-text {
   display: inline-block;
   color: white;
