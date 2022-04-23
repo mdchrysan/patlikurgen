@@ -424,11 +424,34 @@
 </section>
 <section class="home" id="timeline">
     <h2>Our Timeline</h2>
-    <p>21 Mei 2014</p>
-    <p>...</p>
-    <p>20 Mei 2017</p>
+    <div class="timeline">
+        <div class="container left">
+            <div class="content">
+                <h3>2014</h3>
+                <p>OASE: 21 Mei 2014</p>
+            </div>
+        </div>
+        <div class="container right">
+            <div class="content">
+                <h3>2015</h3>
+                <p>Kenaikan kelas 10</p>
+            </div>
+        </div>
+        <div class="container left">
+            <div class="content">
+                <h3>2016</h3>
+                <p>Kenaikan kelas 11</p>
+            </div>
+        </div>
+        <div class="container right">
+            <div class="content">
+                <h3>2017</h3>
+                <p>Missio Canonica: 20 Mei 2017</p>
+            </div>
+        </div>
+    </div>
 </section>
-<section class="home socials-section" id="socials">
+<!-- <section class="home socials-section" id="socials">
     <h2>Get to Know Us Better with</h2>
     <div class="row socials-link">
         <div class="col-lg-3">
@@ -448,5 +471,5 @@
                 <img src="src/gmail.png" alt="gmail-link"></a>
         </div>
     </div>
-</section>
+</section> -->
 <?= $this->endSection(); ?>
