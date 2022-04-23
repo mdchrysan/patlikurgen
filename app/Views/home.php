@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-lg-7">
                 <h2>About Us</h2>
-                <p> Kami adalah Angkatan ke-24 di SMA Pangudi Luhur Van Lith Muntilan. Berawal dari Orientasi Asrama & Sekolah (OASE) pada 21 Mei 2017, menjadikan tanggal tersebut sebagai titik awal angkatan ini lahir. Hingga akhirnya kami terlahir kembali ke dunia pada 20 Mei 2017 untuk menyebarkan Api Van Lith. Selama kami berdinamika disana, kami dibiasakan untuk selalu merefleksikan diri yang akhirnya menghasilkan dua buah <span><a href="<?= base_url('/books'); ?>">buku refleksi angkatan.</a></span> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi culpa sint illum cupiditate ab iure esse, iste ea sunt itaque dolor illo et perspiciatis obcaecati, ullam hic, maiores vel similique!</p>
+                <p> Kami adalah Angkatan ke-24 di SMA Pangudi Luhur Van Lith Muntilan. Berawal dari Orientasi Asrama & Sekolah (OASE) pada 21 Mei 2014, menjadikan tanggal tersebut sebagai titik awal angkatan ini lahir. Hingga akhirnya kami terlahir kembali ke dunia pada 20 Mei 2017 untuk menyebarkan Api Van Lith. Selama kami berdinamika disana, kami dibiasakan untuk selalu merefleksikan diri yang akhirnya menghasilkan dua buah <span><a href="<?= base_url('/books'); ?>">buku refleksi angkatan.</a></span> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eligendi culpa sint illum cupiditate ab iure esse, iste ea sunt itaque dolor illo et perspiciatis obcaecati, ullam hic, maiores vel similique!</p>
             </div>
             <img class="col-lg-5" src="https://pbs.twimg.com/media/CH6HWI3UAAAstX8.jpg" alt="foto angkatan">
         </div>
@@ -398,8 +398,35 @@
     </div>
 </section>
 <section class="home" id="statistic">
-    <h2>180 Anggota 180 Anggota 180 Anggota</h2>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium a tempora tenetur nostrum. Iusto commodi earum ducimus quas at reprehenderit quam qui totam quasi. Libero saepe natus dolore! Mollitia, dolore?</p>
+    <h2>Where are we from?</h2>
+    <div class="row">
+        <div class="col-lg-2">
+            <p>XX</p>
+            <p>Anggota</p>
+        </div>
+        <div class="col-lg-2">
+            <p>XX</p>
+            <p>Jawa</p>
+        </div>
+        <div class="col-lg-2">
+            <p>XX</p>
+            <p>Sumatera</p>
+        </div>
+        <div class="col-lg-2">
+            <p>XX</p>
+            <p>Kalimantan</p>
+        </div>
+        <div class="col-lg-2">
+            <p>XX</p>
+            <p>Papua</p>
+        </div>
+    </div>
+</section>
+<section class="home" id="timeline">
+    <h2>Our Timeline</h2>
+    <p>21 Mei 2014</p>
+    <p>...</p>
+    <p>20 Mei 2017</p>
 </section>
 <section class="home socials-section" id="socials">
     <h2>Get to Know Us Better with</h2>
