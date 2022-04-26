@@ -4,6 +4,7 @@
   --main-blue: #21304f;
   --main-green: #a5f812;
   --main-grey: #222222;
+  --sub-green: rgba(165, 248, 18, 0.7);
   --sub-grey: #787878;
   --timeline-container: rgba(255, 255, 255, 0.2);
   --headings-font: "Montserrat", sans-serif;
@@ -249,6 +250,19 @@ a {
 @keyframes marqueeAnimation-m4 { 100% { transform: translateX(-7100px);}}
 @keyframes marqueeAnimation-m5 { 100% { transform: translateX(-5700px);}}
 @keyframes marqueeAnimation-m6 { 100% { transform: translateX(-6200px);}}
+
+.stat {
+  background-color: orange;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.stat-number {
+  font-size: 4.8em;
+  color: var(--sub-green);
+  font-family: var(--headings-font);
+}
 
 .timeline {
   position: relative;

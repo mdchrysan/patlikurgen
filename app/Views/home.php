@@ -399,25 +399,25 @@
 </section>
 <section class="home" id="statistic">
     <h2>Where are we from?</h2>
-    <div class="row">
-        <div class="col-lg-2">
-            <p>XX</p>
+    <div class="row stat mt-3">
+        <div class="col-lg-2 col-md-12 col-sm-12">
+            <h3 class="stat-number">180-</h3>
             <p>Anggota</p>
         </div>
-        <div class="col-lg-2">
-            <p>XX</p>
+        <div class="col-lg-2 col-md-3 col-sm-6">
+            <h3 class="stat-number">140+</h3>
             <p>Jawa</p>
         </div>
-        <div class="col-lg-2">
-            <p>XX</p>
+        <div class="col-lg-2 col-md-3 col-sm-6">
+            <h3 class="stat-number">10-</h3>
             <p>Sumatera</p>
         </div>
-        <div class="col-lg-2">
-            <p>XX</p>
+        <div class="col-lg-2 col-md-3 col-sm-6">
+            <h3 class="stat-number">5-</h3>
             <p>Kalimantan</p>
         </div>
-        <div class="col-lg-2">
-            <p>XX</p>
+        <div class="col-lg-2 col-md-3 col-sm-6">
+            <h3 class="stat-number">1?</h3>
             <p>Papua</p>
         </div>
     </div>
@@ -428,7 +428,7 @@
         <div class="container left">
             <div class="content">
                 <h3>2014</h3>
-                <p>OASE: 21 Mei 2014</p>
+                <p>21 Mei 2014 - OASE</p>
             </div>
         </div>
         <div class="container right">
@@ -446,7 +446,7 @@
         <div class="container right">
             <div class="content">
                 <h3>2017</h3>
-                <p>Missio Canonica: 20 Mei 2017</p>
+                <p>20 Mei 2017 - Missio Canonica</p>
             </div>
         </div>
     </div>
