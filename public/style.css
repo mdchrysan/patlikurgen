@@ -223,13 +223,6 @@ a {
   font-size: 7.5vh;
 }
 
-.try {
-  width: 100%;
-  overflow: hidden;
-  border: 1px solid #ccc;
-  background: #ccc;
-}
-
 .member-text {
   display: inline-block;
   color: white;
@@ -246,12 +239,36 @@ a {
   float: left;
 }
 
-@keyframes marqueeAnimation-m1 { 100% { transform: translateX(-6900px);}}
-@keyframes marqueeAnimation-m2 { 100% { transform: translateX(-8700px);}}
-@keyframes marqueeAnimation-m3 { 100% { transform: translateX(-9500px);}}
-@keyframes marqueeAnimation-m4 { 100% { transform: translateX(-7100px);}}
-@keyframes marqueeAnimation-m5 { 100% { transform: translateX(-5700px);}}
-@keyframes marqueeAnimation-m6 { 100% { transform: translateX(-6200px);}}
+@keyframes marqueeAnimation-m1 {
+  100% {
+    transform: translateX(-6900px);
+  }
+}
+@keyframes marqueeAnimation-m2 {
+  100% {
+    transform: translateX(-8700px);
+  }
+}
+@keyframes marqueeAnimation-m3 {
+  100% {
+    transform: translateX(-9500px);
+  }
+}
+@keyframes marqueeAnimation-m4 {
+  100% {
+    transform: translateX(-7100px);
+  }
+}
+@keyframes marqueeAnimation-m5 {
+  100% {
+    transform: translateX(-5700px);
+  }
+}
+@keyframes marqueeAnimation-m6 {
+  100% {
+    transform: translateX(-6200px);
+  }
+}
 
 .stat {
   text-align: center;
@@ -272,7 +289,7 @@ a {
 }
 
 .timeline::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 6px;
   background-color: white;
@@ -289,7 +306,7 @@ a {
 }
 
 .container::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 25px;
   height: 25px;
@@ -347,35 +364,35 @@ a {
 }
 
 @media screen and (max-width: 600px) {
-    .timeline::after {
-      left: 26px;
-    }
-  
-    .container {
-      width: 100%;
-      padding-left: 70px;
-      padding-right: 25px;
-    }
-
-    .container::before {
-      left: 60px;
-      border: medium solid var(--timeline-container);
-      border-width: 10px 10px 10px 0;
-      border-color: transparent var(--timeline-container) transparent transparent;
-    }
-
-    .left::after {
-      left: 61px;
-    }
-
-    .right::after {
-      left: 14px;
-    }
-
-    .right {
-      left: 0%;
-    }
+  .timeline::after {
+    left: 26px;
   }
+
+  .container {
+    width: 100%;
+    padding-left: 70px;
+    padding-right: 25px;
+  }
+
+  .container::before {
+    left: 60px;
+    border: medium solid var(--timeline-container);
+    border-width: 10px 10px 10px 0;
+    border-color: transparent var(--timeline-container) transparent transparent;
+  }
+
+  .left::after {
+    left: 61px;
+  }
+
+  .right::after {
+    left: 14px;
+  }
+
+  .right {
+    left: 0%;
+  }
+}
 
 .socials-section {
   display: flex;
@@ -419,21 +436,28 @@ a {
 .heading h1 {
   overflow: hidden;
   margin: 0 auto;
-  border-right: .15em solid var(--main-blue);
+  border-right: 0.15em solid var(--main-blue);
   white-space: nowrap;
-  animation: 
-  typing 2s steps(20, end),
-  blink-cursor .75s step-end infinite;
+  animation: typing 2s steps(20, end), blink-cursor 0.75s step-end infinite;
 }
 
 @keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
 }
 
 @keyframes blink-cursor {
-  from, to { border-color: transparent; }
-  50% { border-color: var(--main-blue); }
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: var(--main-blue);
+  }
 }
 
 .books-section {
@@ -463,11 +487,11 @@ a {
 .m-page {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-areas: 
-  "header"
-  "photos"
-  "cinema-1"
-  "cinema-2";
+  grid-template-areas:
+    "header"
+    "photos"
+    "cinema-1"
+    "cinema-2";
 }
 
 .header {
@@ -475,8 +499,7 @@ a {
   min-height: 100vh;
   display: grid;
   grid-template-columns: 10% 1fr 10%;
-  grid-template-areas: 
-  ". header-content .";
+  grid-template-areas: ". header-content .";
   background: var(--memo-header);
   background-size: cover;
   background-position: center;
@@ -540,7 +563,9 @@ a {
   }
 }
 
-.photos, .cinema-1, .cinema-2 {
+.photos,
+.cinema-1,
+.cinema-2 {
   /* display: grid;
   grid-template-columns: 10% 1fr 10%; */
   margin-bottom: 60px;
@@ -586,7 +611,7 @@ a {
   left: 0;
   right: 0;
   opacity: 0;
-  transition: .5s ease;
+  transition: 0.5s ease;
   background-color: var(--main-green);
 }
 

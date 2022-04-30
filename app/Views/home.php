@@ -379,23 +379,6 @@
             </div>
         </h3>
     </div>
-    <div class="try">
-        Gandhes.
-        Anin.
-        Anggit.
-        Olga.
-        Priska.
-        Tsuyoshi.
-        Rigo.
-        Dimpras.
-        Jason.
-        Aless.
-        Anggi.
-        Wylie.
-        Aurel.
-        Michelle.
-        Lanjut..
-    </div>
 </section>
 <section class="home" id="statistic">
     <h2>Where are we from?</h2>
@@ -405,20 +388,20 @@
             <p>Anggota</p>
         </div>
         <div class="col-lg-2 col-md-3 col-sm-6">
-            <h3 class="stat-number">140+</h3>
-            <p>Jawa</p>
-        </div>
-        <div class="col-lg-2 col-md-3 col-sm-6">
-            <h3 class="stat-number">10-</h3>
-            <p>Sumatera</p>
+            <h3 class="stat-number">1?</h3>
+            <p>Papua</p>
         </div>
         <div class="col-lg-2 col-md-3 col-sm-6">
             <h3 class="stat-number">5-</h3>
             <p>Kalimantan</p>
         </div>
         <div class="col-lg-2 col-md-3 col-sm-6">
-            <h3 class="stat-number">1?</h3>
-            <p>Papua</p>
+            <h3 class="stat-number">10-</h3>
+            <p>Sumatera</p>
+        </div>
+        <div class="col-lg-2 col-md-3 col-sm-6">
+            <h3 class="stat-number">140+</h3>
+            <p>Jawa</p>
         </div>
     </div>
 </section>
