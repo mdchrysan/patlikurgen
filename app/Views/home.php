@@ -434,25 +434,29 @@
         </div>
     </div>
 </section>
-<!-- <section class="home socials-section" id="socials">
+<section class="home socials-section" id="socials">
     <h2>Get to Know Us Better with</h2>
     <div class="row socials-link">
-        <div class="col-lg-3">
+        <div class="col-3">
             <a href="https://www.instagram.com/patlikurgen/" class="btn socials-details" target="_blank">
-                <img src="src/instagram.png" alt="instagram-link"></a>
+                <i class="fa-brands fa-instagram"></i>
+            </a>
         </div>
-        <div class="col-lg-3">
+        <div class="col-3">
             <a href="https://open.spotify.com/user/qpnrwvinmsitd38nz2kt3ij0v" class="btn socials-details" target="_blank">
-                <img src="src/spotify.png" alt="spotify-link"></a>
+                <i class="fa-brands fa-spotify"></i>
+            </a>
         </div>
-        <div class="col-lg-3">
+        <div class="col-3">
             <a href="https://www.youtube.com/channel/UCjI3BssTlpPSHqnE_8B_mgQ" class="btn socials-details" target="_blank">
-                <img src="src/youtube.png" alt="youtube-link"></a>
+                <i class="fa-brands fa-youtube"></i>
+            </a>
         </div>
-        <div class="col-lg-3">
+        <div class="col-3">
             <a href="mailto:yearbook.patlikur@gmail.com" class="btn socials-details" target="_blank">
-                <img src="src/gmail.png" alt="gmail-link"></a>
+                <i class="fa-solid fa-envelope"></i>
+            </a>
         </div>
     </div>
-</section> -->
+</section>
 <?= $this->endSection(); ?>
