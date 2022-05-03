@@ -653,3 +653,15 @@ a {
 .embed-responsive-4by3 {
   padding-bottom: 75%;
 }
+
+.footer {
+  color: black;
+  opacity: 0.3;
+  text-align: center;
+  background: transparent;
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  margin: 0;
+}

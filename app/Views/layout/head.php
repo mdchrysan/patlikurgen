@@ -24,6 +24,9 @@
     <!-- content here -->
     <?= $this->renderSection('content'); ?>
 
+    <!-- footer here -->
+    <p class="footer">MDC@2022</p>
+
 </body>
 
 </html>
