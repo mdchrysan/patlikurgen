@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <a href="#" class="navbar-brand">xxiv</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navToggler" aria-controls="navToggler" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon">Menu</span>
+            <span class="menu-toggler"><i class="fa-solid fa-rocket"></i></span>
         </button>
         <div class="collapse navbar-collapse" id="navToggler">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
