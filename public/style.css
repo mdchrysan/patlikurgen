@@ -436,7 +436,27 @@ a {
   position: relative;
   min-height: 100vh;
   padding: 200px 500px 5px 500px;
-  background-color: var(--sub-green);
+  background: linear-gradient(-45deg, #e1f812, #beff4e, var(--sub-green));
+  background-size: 200% 200%;
+  animation: gradient 8s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 40% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+  .heading {
+    padding: 40% 30%;
+  }
 }
 
 .heading h1 {
