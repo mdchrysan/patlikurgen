@@ -436,9 +436,9 @@ a {
   position: relative;
   min-height: 100vh;
   padding: 200px 500px 5px 500px;
-  background: linear-gradient(-45deg, #e1f812, #beff4e, var(--sub-green));
+  background: linear-gradient(-45deg, #12f857, #beff4e, var(--sub-green), var(--main-blue));
   background-size: 200% 200%;
-  animation: gradient 8s ease infinite;
+  animation: gradient 5s ease infinite;
 }
 
 @keyframes gradient {
@@ -446,7 +446,7 @@ a {
 		background-position: 0% 50%;
 	}
 	50% {
-		background-position: 40% 50%;
+		background-position: 80% 50%;
 	}
 	100% {
 		background-position: 0% 50%;
@@ -673,9 +673,9 @@ a {
 }
 
 /* Modifier class for 16:9 aspect ratio */
-.embed-responsive-16by9 {
+/* .embed-responsive-16by9 {
   padding-bottom: 56.25%;
-}
+} */
 
 /* Modifier class for 4:3 aspect ratio */
 .embed-responsive-4by3 {
