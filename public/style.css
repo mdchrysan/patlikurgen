@@ -673,13 +673,26 @@ a {
 }
 
 /* Modifier class for 16:9 aspect ratio */
-/* .embed-responsive-16by9 {
+.embed-responsive-16by9 {
   padding-bottom: 56.25%;
-} */
+}
 
 /* Modifier class for 4:3 aspect ratio */
-.embed-responsive-4by3 {
+/* .embed-responsive-4by3 {
   padding-bottom: 75%;
+} */
+
+.d-title {
+  padding: 100px;
+  color: #ccc;
+}
+
+.modal-content, .form-control {
+  background: var(--main-green);
+}
+
+.form-control {
+  border-color: var(--main-blue);
 }
 
 .footer {
