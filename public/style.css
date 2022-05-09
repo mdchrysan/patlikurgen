@@ -687,12 +687,30 @@ a {
   color: #ccc;
 }
 
+.modal {
+  z-index: 10001;
+}
+
+.modal button, .form-control {
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.3);
+}
+
 .modal-content, .form-control {
   background: var(--main-green);
 }
 
 .form-control {
   border-color: var(--main-blue);
+  font-weight: bold;
+}
+
+.form-control:focus, .modal .btn {
+  background: var(--main-blue);
+  color: var(--main-green);
+}
+
+.form-floating label {
+  color: black;
 }
 
 .footer {

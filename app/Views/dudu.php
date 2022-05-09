@@ -12,21 +12,23 @@
             <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
                 <div class="modal-content">
                     <div class="modal-body">
-                        <div class="form-floating mb-3">
-                            <input type="text" class="form-control" id="dariInput" placeholder="Alma 24">
-                            <label for="dariInput">Dari</label>
-                        </div>
-                        <div class="form-floating mb-3">
-                            <input type="text" class="form-control" id="untukInput" placeholder="Ivan 24">
-                            <label for="untukInput">Untuk</label>
-                        </div>
-                        <div class="form-floating mb-3">
-                            <textarea class="form-control" placeholder="Minggu besok gereja bareng yuk!" id="ucapanInput" style="height: 100px"></textarea>
-                            <label for="ucapanInput">Dengan Ucapan</label>
-                        </div>
-                        <div class="d-md-flex justify-content-md-end">
-                            <button type="button" class="btn btn-primary">Kirim</button>
-                        </div>
+                        <form action="">
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="dariInput" placeholder="Alma 24" required>
+                                <label for="dariInput">Dari</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="untukInput" placeholder="Ivan 24" required>
+                                <label for="untukInput">Untuk</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <textarea class="form-control" placeholder="Minggu besok gereja bareng yuk!" id="ucapanInput" style="height: 100px" required></textarea>
+                                <label for="ucapanInput">Dengan Ucapan</label>
+                            </div>
+                            <div class="d-md-flex justify-content-md-end">
+                                <button type="button" class="btn">Kirim</button>
+                            </div>
+                        </form>
                     </div>
                 </div>
             </div>
