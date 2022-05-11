@@ -4,7 +4,7 @@
 <section class="d-title">
     <h1>DUDU</h1>
     <h3>Dari Untuk Dengan Ucapan</h3>
-    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#duduMaker">Online
+    <button type="button" class="btn btn-danger mb-2" data-bs-toggle="modal" data-bs-target="#duduMaker">Online
         <!-- <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info">
             24+
             <span class="visually-hidden">unread dudu</span>
@@ -41,54 +41,75 @@
 <section class="d-card">
     <div class="row">
         <!--?php foreach ($card as $c) : ?-->
-        <div class="col-sm-3">
-            <div class="card border-warning mb-3">
-                <div class="card-body">
-                    <!-- <p class="card-text"><-?= $c['dari']; ?></p> -->
-                    <!-- <p class="card-text"><-?= $c['untuk']; ?></p> -->
-                    <!-- <p class="card-text"><-?= $c['ucapan']; ?></p> -->
-                    <p class="card-text">D : Alma 24</p>
-                    <p class="card-text">U : Ivan 24</p>
-                    <p class="card-text">DU : Besok gereja bareng yuk!</p>
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card-shadow">
+                <div class="card">
+                    <div class="content">
+                        <!-- <p>D : <span><-?= $c['dari']; ?></span></p>
+                        <p>U : <span><-?= $c['untuk']; ?></span></p>
+                        <p>DU : <span><-?= $c['ucapan']; ?></span></p> -->
+                        <p>D : <span>Alma 24</span></p>
+                        <p>U : <span>Ivan 24</span></p>
+                        <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
+                    </div>
                 </div>
             </div>
         </div>
         <!--?php endforeach; ?-->
 
         <!-- Layout Test -->
-        <div class="col-sm-3">
-            <div class="card border-warning mb-3">
-                <div class="card-body">
-                    <p class="card-text">D : Alma 24</p>
-                    <p class="card-text">U : Ivan 24</p>
-                    <p class="card-text">DU : Besok gereja bareng yuk!</p>
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card-shadow">
+                <div class="card">
+                    <div class="content">
+                        <p>D : <span>Alma 24</span></p>
+                        <p>U : <span>Ivan 24</span></p>
+                        <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
-            <div class="card border-warning mb-3">
-                <div class="card-body">
-                    <p class="card-text">D : Alma 24</p>
-                    <p class="card-text">U : Ivan 24</p>
-                    <p class="card-text">DU : Besok gereja bareng yuk!</p>
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card-shadow">
+                <div class="card">
+                    <div class="content">
+                        <p>D : <span>Alma 24</span></p>
+                        <p>U : <span>Ivan 24</span></p>
+                        <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
-            <div class="card border-warning mb-3">
-                <div class="card-body">
-                    <p class="card-text">D : Alma 24</p>
-                    <p class="card-text">U : Ivan 24</p>
-                    <p class="card-text">DU : Besok gereja bareng yuk!</p>
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card-shadow">
+                <div class="card">
+                    <div class="content">
+                        <p>D : <span>Alma 24</span></p>
+                        <p>U : <span>Ivan 24</span></p>
+                        <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col-sm-3">
-            <div class="card border-warning mb-3">
-                <div class="card-body">
-                    <p class="card-text">D : Alma 24</p>
-                    <p class="card-text">U : Ivan 24</p>
-                    <p class="card-text">DU : Besok gereja bareng yuk!</p>
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card-shadow">
+                <div class="card">
+                    <div class="content">
+                        <p>D : <span>Alma 24</span></p>
+                        <p>U : <span>Ivan 24</span></p>
+                        <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6">
+            <div class="card-shadow">
+                <div class="card">
+                    <div class="content">
+                        <p>D : <span>Alma 24</span></p>
+                        <p>U : <span>Ivan 24</span></p>
+                        <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
+                    </div>
                 </div>
             </div>
         </div>
