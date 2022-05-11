@@ -713,6 +713,10 @@ a {
   color: black;
 }
 
+.d-card {
+  padding: 10px 100px;
+}
+
 .footer {
   color: black;
   opacity: 0.3;

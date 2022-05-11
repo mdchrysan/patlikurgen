@@ -4,7 +4,12 @@
 <section class="d-title">
     <h1>DUDU</h1>
     <h3>Dari Untuk Dengan Ucapan</h3>
-    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#duduMaker">Online</button>
+    <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#duduMaker">Online
+        <!-- <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-info">
+            24+
+            <span class="visually-hidden">unread dudu</span>
+        </span> -->
+    </button>
     <p>*klik untuk membuat!</p>
     <!-- Modal -->
     <div class="modal fade" id="duduMaker" tabindex="-1" aria-labelledby="formDudu" aria-hidden="true">
