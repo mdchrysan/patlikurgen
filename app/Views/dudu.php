@@ -16,21 +16,21 @@
         <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
             <div class="modal-content">
                 <div class="modal-body">
-                    <form action="">
+                    <form action="/dudu/save" method="POST">
                         <div class="form-floating mb-3">
-                            <input type="text" class="form-control" id="dariInput" placeholder="Alma 24" required>
+                            <input type="text" class="form-control" id="dariInput" placeholder="Aspi 24" name="dari" required>
                             <label for="dariInput">Dari</label>
                         </div>
                         <div class="form-floating mb-3">
-                            <input type="text" class="form-control" id="untukInput" placeholder="Ivan 24" required>
+                            <input type="text" class="form-control" id="untukInput" placeholder="Aspa 24" name="untuk" required>
                             <label for="untukInput">Untuk</label>
                         </div>
                         <div class="form-floating mb-3">
-                            <textarea class="form-control" placeholder="Minggu besok gereja bareng yuk!" id="ucapanInput" style="height: 100px" required></textarea>
+                            <textarea class="form-control" placeholder="besok eksplor kemana?" id="ucapanInput" name="ucapan" style="height: 100px" required></textarea>
                             <label for="ucapanInput">Dengan Ucapan</label>
                         </div>
                         <div class="d-md-flex justify-content-md-end">
-                            <button type="button" class="btn">Kirim</button>
+                            <button type="submit" class="btn">Kirim</button>
                         </div>
                     </form>
                 </div>
