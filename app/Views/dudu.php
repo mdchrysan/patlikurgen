@@ -40,14 +40,21 @@
 </section>
 <section class="d-card">
     <div class="row">
-        <!--?php foreach ($card as $c) : ?-->
+        <!--?php foreach ($dudu as $d) : ?-->
         <div class="col-lg-3 col-md-4 col-sm-6">
             <div class="card-shadow">
                 <div class="card">
                     <div class="content">
-                        <!-- <p>D : <span><-?= $c['dari']; ?></span></p>
-                        <p>U : <span><-?= $c['untuk']; ?></span></p>
-                        <p>DU : <span><-?= $c['ucapan']; ?></span></p> -->
+                        <p>D : <span>
+                                <-?= $d['dari']; ?>
+                            </span></p>
+                        <p>U : <span>
+                                <-?= $d['untuk']; ?>
+                            </span></p>
+                        <p>DU : <span>
+                                <-?= $d['ucapan']; ?>
+                            </span></p>
+                        <!-- break -->
                         <p>D : <span>Alma 24</span></p>
                         <p>U : <span>Ivan 24</span></p>
                         <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
