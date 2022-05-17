@@ -46,13 +46,13 @@
                 <div class="card">
                     <div class="content">
                         <p>D : <span>
-                                <-?= $d['dari']; ?>
+                                <?= $d['dari']; ?>
                             </span></p>
                         <p>U : <span>
-                                <-?= $d['untuk']; ?>
+                                <?= $d['untuk']; ?>
                             </span></p>
                         <p>DU : <span>
-                                <-?= $d['ucapan']; ?>
+                                <?= $d['ucapan']; ?>
                             </span></p>
                         <!-- break -->
                         <p>D : <span>Alma 24</span></p>

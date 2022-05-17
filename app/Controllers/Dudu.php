@@ -14,8 +14,8 @@ class Dudu extends BaseController
 
     public function index()
     {
-        // $dudu = $this->duduModel->findAll();
-        // dd($dudu);
+        $dudu = $this->duduModel->findAll();
+        dd($dudu);
 
         $data = [
             'title' => 'DUDU | Patlikurgen',
