@@ -40,30 +40,6 @@
 </section>
 <section class="d-card">
     <div class="row">
-        <!--?php foreach ($dudu as $d) : ?-->
-        <div class="col-lg-3 col-md-4 col-sm-6">
-            <div class="card-shadow">
-                <div class="card">
-                    <div class="content">
-                        <p>D : <span>
-                                <?= $d['dari']; ?>
-                            </span></p>
-                        <p>U : <span>
-                                <?= $d['untuk']; ?>
-                            </span></p>
-                        <p>DU : <span>
-                                <?= $d['ucapan']; ?>
-                            </span></p>
-                        <!-- break -->
-                        <p>D : <span>Alma 24</span></p>
-                        <p>U : <span>Ivan 24</span></p>
-                        <p>DU : <span>Minggu gereja bareng yuk! Ketemuan di refter ya..</span></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--?php endforeach; ?-->
-
         <!-- Layout Test -->
         <div class="col-lg-3 col-md-4 col-sm-6">
             <div class="card-shadow">
@@ -120,6 +96,26 @@
                 </div>
             </div>
         </div>
+
+        <?php foreach ($dudu as $d) : ?>
+            <div class="col-lg-3 col-md-4 col-sm-6">
+                <div class="card-shadow">
+                    <div class="card">
+                        <div class="content">
+                            <p>D : <span>
+                                    <?= $d['dari']; ?>
+                                </span></p>
+                            <p>U : <span>
+                                    <?= $d['untuk']; ?>
+                                </span></p>
+                            <p>DU : <span>
+                                    <?= $d['ucapan']; ?>
+                                </span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <?php endforeach; ?>
     </div>
 </section>
 <?= $this->endSection(); ?>
